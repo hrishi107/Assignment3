@@ -1,0 +1,16 @@
+body{margin:0;padding:0;font-family:initial}
+.wrapper{margin:0 auto;width:1000px;}
+.search{padding:20px 0 20px 20px;text-align:center;overflow:hidden}
+.input{width:528px;height:35px; padding:10px;}
+.back_img{background-image:url("../images/srchIcon.png");background-color:#ef105f;background-repeat:no-repeat;height:58px;width:55px;float:left;background-position:12px}
+.div1{box-shadow:5px 10px 18px #888888;float:left}
+
+
+//.row2{padding:20px;margin-top:40px;border:1px solid black;width:229px;}
+.image1{background-image:url("../images/prodImg.jpg");height:183px;width:185px;background-repeat:no-repeat;margin-bottom:20px;}
+.btn{width:183px;background-color:#ef105f;height:55px;border:none;color:#fff;padding-right:58px}
+.cart{background-image:url("../images/cart.png");position:absolute;top:17px;left:118px;height:25px;width:40px;background-repeat:no-repeat}
+.button{position:relative;margin-top:10px; display:none}
+.Heart_Image{background-image:url("../images/favIcon.png");height:42px;width:59px;background-repeat:no-repeat;position:absolute;margin-top:-218px;margin-left:160px}
+.main_div{padding:20px;width:190px;height:340px;border:2px solid black}
+.main_div:hover .button{display:block}
